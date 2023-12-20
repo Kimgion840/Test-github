@@ -1,1 +1,4 @@
 Nguyen Ngoc Duc Phat
+create
+clone (git clone https....) roi viet code
+up (git status, git add, git commit -m "...", git push origin main )
